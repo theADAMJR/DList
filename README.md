@@ -5,3 +5,4 @@ Best server list (with multicoloured rockets), like disboard.
 
 ## Redirect URIs
 - `http://localhost:3000/api/auth` (locally)
+[![Run on Repl.it](https://repl.it/badge/github/theADAMJR/DList)](https://repl.it/github/theADAMJR/DList)
